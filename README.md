@@ -1,5 +1,6 @@
 # SAP-S-4HANA-Migration
 
+
 # Client: PepsiCo, Inc.
 # Goals
 The primary goal of this project was to migrate from SAP ECC to SAP S/4HANA to enhance operational efficiency, improve data processing speed, and leverage advanced analytics. This migration aimed to modernize PepsiCo's IT infrastructure, streamline business processes, and provide real-time data insights for better decision-making.
@@ -11,6 +12,8 @@ The scope of the project included a comprehensive migration of all critical busi
 - **Modernize IT Infrastructure:** Upgrade to a more robust and scalable platform.
 - **Optimize Business Processes:** Streamline operations to enhance efficiency.
 - **Improve Real-Time Data Insights:** Provide actionable insights through advanced analytics.
+
+![image (6)](https://github.com/TacoBadger/SAP-S-4HANA-Migration/assets/11693256/ecd18b12-2d8e-41d6-9456-9ead12122b9b)
 
 # Technologies Used
 # SAP Modules
@@ -58,6 +61,9 @@ Evaluate the current SAP ECC landscape to understand existing configurations and
 **Data Migration Strategy**
 Develop a comprehensive data migration plan covering extraction, transformation, and loading (ETL) processes. Use SAP Data Services to ensure data quality and integrity throughout the migration process, mitigating risks and ensuring smooth transition.
 
+![image (7)](https://github.com/TacoBadger/SAP-S-4HANA-Migration/assets/11693256/b7fd8286-1788-46f1-a35b-b4288b02b96b)
+
+
 **System Conversion**
 Perform a readiness check to ensure the system is prepared for migration. Make necessary custom code adjustments and convert data to the new system. Migrate custom developments to SAP S/4HANA to maintain business continuity.
 
@@ -92,8 +98,8 @@ Execute cutover activities and go live with the new system. Provide hypercare su
 - **Data Processing Speed:** Shows a 30% increase after migration.
 - **Operational Costs:** Shows a 20% reduction after migration.
 
+![image (5)](https://github.com/TacoBadger/SAP-S-4HANA-Migration/assets/11693256/96ac543c-f4a7-4810-bac1-4d770f2924bc)
 
-![image (4)](https://github.com/TacoBadger/SAP-S-4HANA-Migration/assets/11693256/15682114-01cf-4b0b-84c5-ac031cc8cf28)
 
 - **Data Processing Speed:** Shows the improvement over the months, with a significant increase after the migration is completed.
 - **Operational Costs**: Shows a gradual decrease over the same period, indicating cost savings post-migration.
