@@ -1,6 +1,8 @@
 # SAP-S-4HANA-Migration
 
 # Project Overview
+
+# Client PepsiCo, Inc.
 # Goals
 The primary goal of this project was to migrate from SAP ECC to SAP S/4HANA to enhance operational efficiency, improve data processing speed, and leverage advanced analytics. This migration aimed to modernize PepsiCo's IT infrastructure, streamline business processes, and provide real-time data insights for better decision-making.
 
